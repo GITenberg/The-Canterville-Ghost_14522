@@ -1,0 +1,39 @@
+_repo: The-Canterville-Ghost_14522
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Goldsmith, Wallace
+    birthdate: 1873
+    deathdate: 1945
+    gutenberg_agent_id: '6688'
+    url: http://www.gutenberg.org/2009/agents/6688
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wilde, Oscar
+    alias: Wilde, Oscar Fingal O'Flahertie Wills
+    birthdate: 1854
+    deathdate: 1900
+    gutenberg_agent_id: '111'
+    url: http://www.gutenberg.org/2009/agents/111
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Oscar_Wilde
+    - http://fr.wikipedia.org/wiki/Oscar_Wilde
+description: ''
+gutenberg_issued: '2004-12-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14522'
+language: en
+publication_note: "1906\r\nJohn W. Luce and Company\r\nBoston and London"
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ghosts -- Fiction'
+- !lcc 'PR'
+- !lcsh 'England -- Fiction'
+title: The Canterville Ghost
+url: http://www.gutenberg.org/ebooks/14522
