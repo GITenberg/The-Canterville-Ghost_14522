@@ -22,6 +22,8 @@ creator:
     - http://en.wikipedia.org/wiki/Oscar_Wilde
     - http://fr.wikipedia.org/wiki/Oscar_Wilde
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14522#The-Canterville-Ghost
 gutenberg_issued: '2004-12-30'
 gutenberg_type: Text
 identifiers:
